@@ -1,2 +1,2 @@
 # LetsBreakSuma
-My block breaker video game in Unity. /* Constant work in progress */
+My block breaker video game in Unity and C#. /* Constant work in progress */
