@@ -1,4 +1,4 @@
-# LetsBreakSuma
+# Lets-Break-Suma
 This video game is still a work on progress.
 
 /* DIRECTIONS ON HOW TO PLAY */
