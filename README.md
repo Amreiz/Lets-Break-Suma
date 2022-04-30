@@ -1,6 +1,6 @@
 # Lets-Break-Suma
 
-Fun Fact: This was made when I was first learning about Unity3d. I worked on it inm y break time in the forests of Duxbury in Massachussets where I was stationed as a camp counselor.
+Fun Fact: This was made when I was first learning about Unity3d. I worked on it whenever I had a break from my duties as a camp counselor. I was coding this in a wooden lodge whilst battling the overabundance of pollen sticking to my laptop! (This was in the forests of Duxbury in Massachussets)
 
 # Demo
 
